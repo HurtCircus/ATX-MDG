@@ -1,0 +1,31 @@
+#:kivy 1.8
+
+#:import label kivy.uix.label
+#:import lv kivy.uix.listview
+#:import la kivy.adapters.listadapter
+#:import dd drugs.drug_data
+
+<MainView>:
+	
+	orientation: "vertical"
+	size_hint_x: 1
+	
+<DrugListView>:
+	list_view: list_view_id
+    ListView:
+        id: list_view_id
+        orientation: "vertical"
+        adapter:
+            la.ListAdapter(
+            data = ["{0}".format(key) for key in sorted(dd)],
+            selection_mode = 'single',
+            allow_empty_selection = True,
+            cls = lv.ListItemButton)
+            
+<ListItemButton>
+    deselected_color: (0.156, 0.391, 0.625, 1)
+    selected_color: (0.062, 0.156, 0.250, 1)
+	
+		
+	      
+			
