@@ -33,4 +33,14 @@ for drug_record in drug_data_list_of_dicts:
                   "name": drug_record["name"],
                   "adult dosage": drug_record["adult dosage"],
                   "is_selected": drug_record["is_selected"]})
-
+            
+drugs = []
+for drug in sorted(drug_data):
+    drugs.append(drug_data[drug]["drug"])
+    
+drug_detail = []
+for detail in sorted(drug_data):
+    drug_detail.append(drug_data[str(detail)]["name"])
+    drug_detail.append(drug_data[str(detail)]["adult dosage"])
+    
+print drug_detail
