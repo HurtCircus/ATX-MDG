@@ -4,6 +4,7 @@
 #:import lv kivy.uix.listview
 #:import btn kivy.uix.button
 #:import pop kivy.uix.popup
+#:import sv kivy.uix.scrollview
 #:import la kivy.adapters.listadapter
 #:import sla kivy.adapters.simplelistadapter
 #:import dld drugs.drug_data_list_of_dicts
@@ -32,38 +33,44 @@
 	id: dlvd_id
 	detail_view: detail_view_id
 	title: dd[root.curr_drug]["drug"]
+	title_size: 24
 	
-	
-	BoxLayout:
-		orientation: "vertical"
-		ListView:
-			id: detail_view_id
-			size_hint: 0.9, 0.9
-			orientation: "vertical"
-			row_height: 100
-			text_size: 400, 100
-			adapter:
-				sla.SimpleListAdapter(
-				data = [dd[root.curr_drug]["adult dosage"]],
-				cls = lv.ListItemLabel
-				)
-			
+	ScrollView:
+		size_hint: 1, 1
+		do_scroll_x: False
 		
-		Button:
-			size_hint_y: 0.1
-			text: "Close"
-			on_press: root.dismiss()
+		GridLayout:
+			cols: 1
+			spacing: 10
+			size_hint: 1, None
+			height: detail_view_id.texture_size[1] + detail_btn_id.height + 10
+			default_row_height: 100
+			
+			Label:
+				id: detail_view_id
+				text: "[b]Adult Dosage:[/b]\n" + str(dd[root.curr_drug]["adult dosage"]) + "\n\n" + "[b]Pedi Dosage:[/b]\n" + str(dd[root.curr_drug]["pedi dosage"]) + "\n\n" + "[b]Indications:[/b]\n" + str(dd[root.curr_drug]["indications"]) + "\n\n"+ "[b]Contraindications:[/b]\n" + str(dd[root.curr_drug]["contraindications"]) + "\n\n"+ "[b]Adverse Effects:[/b]\n" + str(dd[root.curr_drug]["adverse effects"]) + "\n\n"+ "[b]Class:[/b]\n" + str(dd[root.curr_drug]["class"]) + "\n\n"+ "[b]Pharmacokinetics:[/b]\n" + str(dd[root.curr_drug]["pharmacokinetics"]) + "\n\n"+ "[b]Action:[/b]\n" + str(dd[root.curr_drug]["action"]) + "\n\n"
+				text_size: self.width, None
+				size_hint: 1, None
+				size: self.parent.width, self.texture_size[1]
+				markup: True
+				
+			Button:
+				id: detail_btn_id
+				size_hint_y: None
+				text: "Close"
+				height: 50
+				on_press: root.dismiss()
 
 	
             
-<ListItemButton>:
+<ListItemButton>: 
 	size: 400, 200
     deselected_color: (0.156, 0.391, 0.625, 1)
     selected_color: (0.062, 0.156, 0.250, 1)
+
     
-<ListItemLabel>:
-	markup: True
-	size_hint_y: None
+
+	
 	
     
 
