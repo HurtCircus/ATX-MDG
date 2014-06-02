@@ -1,0 +1,3 @@
+title=ATX - Medic Drug Guide
+author= Hurt Circus
+orientation=portrait

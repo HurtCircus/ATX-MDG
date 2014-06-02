@@ -42,13 +42,14 @@
 		GridLayout:
 			cols: 1
 			spacing: 10
+			padding: 10
 			size_hint: 1, None
 			height: detail_view_id.texture_size[1] + detail_btn_id.height + 10
 			default_row_height: 100
 			
 			Label:
 				id: detail_view_id
-				text: "[b]Adult Dosage:[/b]\n" + str(dd[root.curr_drug]["adult dosage"]) + "\n\n" + "[b]Pedi Dosage:[/b]\n" + str(dd[root.curr_drug]["pedi dosage"]) + "\n\n" + "[b]Indications:[/b]\n" + str(dd[root.curr_drug]["indications"]) + "\n\n"+ "[b]Contraindications:[/b]\n" + str(dd[root.curr_drug]["contraindications"]) + "\n\n"+ "[b]Adverse Effects:[/b]\n" + str(dd[root.curr_drug]["adverse effects"]) + "\n\n"+ "[b]Class:[/b]\n" + str(dd[root.curr_drug]["class"]) + "\n\n"+ "[b]Pharmacokinetics:[/b]\n" + str(dd[root.curr_drug]["pharmacokinetics"]) + "\n\n"+ "[b]Action:[/b]\n" + str(dd[root.curr_drug]["action"]) + "\n\n"
+				text: u"[b]Adult Dosage:[/b]\n" + str(dd[root.curr_drug]["adult dosage"]) + "\n\n" + "[b]Pedi Dosage:[/b]\n" + str(dd[root.curr_drug]["pedi dosage"]) + "\n\n" + "[b]Indications:[/b]\n" + str(dd[root.curr_drug]["indications"]) + "\n\n"+ "[b]Contraindications:[/b]\n" + str(dd[root.curr_drug]["contraindications"]) + "\n\n"+ "[b]Adverse Effects:[/b]\n" + str(dd[root.curr_drug]["adverse effects"]) + "\n\n"+ "[b]Class:[/b]\n" + str(dd[root.curr_drug]["class"]) + "\n\n"+ "[b]Pharmacokinetics:[/b]\n" + str(dd[root.curr_drug]["pharmacokinetics"]) + "\n\n"+ "[b]Action:[/b]\n" + str(dd[root.curr_drug]["action"]) + "\n\n"
 				text_size: self.width, None
 				size_hint: 1, None
 				size: self.parent.width, self.texture_size[1]

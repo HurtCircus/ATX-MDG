@@ -1,0 +1,601 @@
+<Name> Acetaminophen (APAP) (Tylenol) 
+<Class>    Analgesic, Antipyretic. 
+<Action>    Equivalent to aspirin in both analgesic and antipyretic effects.  Unlike 
+aspirin, acetaminophen has little effect on platelet function, no effect 
+on homeostasis, and is not known to produce gastric bleeding.  
+Acetaminophen is not an NSAID, as it has no anti-inflammatory 
+properties. Its function was largely a mystery until the early 1990’s 
+when it was found that it acted on a variant of cyclooxygenase called 
+COX3 that is only expressed in the central nervous system. Because 
+it does not work on COX1 and COX2 (like ASA) it does not cause the 
+downstream effects on platelets or the immune system.  
+<Pharmacokinetics>    Absorption is rapid, peak 1-2h, duration 3-4h, ½life 1-3h. APAP is 
+processed in the Liver. 
+<Contraindications>    Use in caution with children afflicted with arthritic or rheumatoid 
+conditions.  Use in caution with known thrombocytopenia and/or Liver 
+Disease  
+<Adverse Effects>    N/V, abdominal pain,  
+<Indications>    Fever with or without seizures or Pain. 
+<Dosing>    Per Protocols: M-09, M-16, PM-03, PM-06, PM-07  
+Clinical Reference: CR - 27 
+
+<Name> Adenosine 
+<Class>    Antidysrhythmic 
+<Action>    Slows AV node conduction, interrupts reentry pathways. Adenosine 
+works in a variety of receptors grouped into a group called P1 
+receptors. The true mechanism is somewhat unclear. Adenosine 
+works through the activation of cAMP and coupled G-proteins to 
+cause its cardiac effects.  
+<Pharmacokinetics>    Immediate onset and peak, half-life 10s. 
+<Contraindications>    Known hypersensitivity.  Sick Sinus Syndrome. Second or third 
+degree AV block. Use with caution in patients with severe asthma. 
+<Adverse Effects>    Flushing, CP, HA, N/V, hypotension 
+<Indications>    Symptomatic (poor perfusion) narrow complex tachycardia w/ pulse 
+<Dosing>    Per Protocols: C-04, PC-02 
+
+<Name> Albuterol 
+<Class>    Sympathomimetic Bronchodilator 
+<Action>    Beta2 adrenergic.  Smooth muscle relaxant.  Minimal Beta1 effects.  
+Reduces mucous secretion and edema via histamine inhibition. 
+<Pharmacokinetics>    Onset 5-15m, peak 1-1.5h, duration 3-6h, half-life 3h. 
+<Contraindications>    Known hypersensitivity. 
+<Adverse Effects>    Tachycardia, palpitations, peripheral vasodilation, tremors, HA, sore 
+throat, dry mouth, PVCs, N/V. 
+<Indications>    Wheezing due to bronchospasm 
+<Dosing>    Per Protocols: M-02, PM-01, PR-03, R-04, SO-01, T-04 
+Clinical Standard CS-20 
+
+<Name> Amiodarone 
+<Class>    Antidysrhythmic 
+<Action>    Prolongs the duration of the action potential and refractory period of 
+all Cardiac fibers. Depresses the Phase 0 slope by causing a sodium 
+blockade. Causes a Beta block as well as a weak calcium channel 
+blockade. Therefore it decreases the SA nodes rate of firing, 
+suppresses automaticity, interrupts reentrant pathways and prolongs 
+PR, QRS and QT intervals. Relaxes vascular smooth muscle, 
+decreases peripheral vascular resistance, and increases coronary 
+contractility. 
+<Pharmacokinetics>    Rapid onset, serum concentrations drop to 10% w/in 30-45 minutes. 
+<Contraindications>    Cardiogenic shock, bradycardia, second/third degree block 
+<Adverse Effects>    Vasodilation (usually not associated with decreased cardiac output 
+secondary to the negative inotropic effects), hypotension, bradycardia, 
+AV block, increased QT interval, V-Tach 
+<Indications>    Ventricular Arrhythmias or W ide Complex Tachycardia with or without 
+a pulse   
+<Dosing>    Per Protocols: C-05, CA-03, PC-03, PCA-03 
+Clinical References: CR-01, CR-02, CR-19  
+
+<Name> Aspirin 
+<Class>    Analgesic, Antipyretic, NSAID, platelet inhibitor 
+<Action>    Inhibits the formation of prostaglandins associated with pain, fever, 
+and inflammation.  Inhibits platelet aggregation by acetylating 
+cyclooxygenase permanently disabling it so that it cannot synthesize 
+prostaglandins and Thromboxanes. Since Thromboxane A2 is 
+important in clotting its absence does not allow blood to clot 
+effectively. 
+<Pharmacokinetics>    Onset 5-30m, peak in 15m-2h, duration is 1-4h. 
+<Contraindications>    Allergy, ulcer, GI bleeding 
+Precaution    Patients with known ASA or NSAIDs sensitive Asthma (defer to 
+OLMC) 
+<Adverse Effects> .............. N/V, diarrhea, heartburn, GI bleeding 
+<Indications>    Cardiac type Chest Pain 
+<Dosing>    Per Protocol: C-01 
+
+<Name> Atropine Sulfate 
+<Class>    Parasympatholytic 
+<Action>    Competitive antagonist that selectively blocks all muscarinic 
+responses to acetylcholine.  Blocks vagal impulses, thereby 
+increasing SA node discharge, thereby enhancing AV conduction and 
+cardiac output.  Potent anti-secretory effects caused by the blocking 
+of acetylcholine at the muscarinic site. Atropine is also useful in the 
+treatment of the symptoms associated with nerve agent poisoning. 
+<Pharmacokinetics>    Rapid onset, peak in 2-4m IV, half-life 2-3h. 
+<Contraindications>    A-Fib, A-Flutter, second degree type II or third degree block. 
+Tachycardia, glaucoma.  Use with caution in suspected AMI. 
+<Adverse Effects>    Pupil dilation, tachycardia, V-Tach, V-Fib, HA, dry mouth 
+<Indications>    Bradycardia and Organophosphate poisoning 
+<Dosing>    Per Protocols: C-02, M-14, PC-01  
+Per Clinical Procedure: CP-24 
+Per Clinical Reference: CR-38 
+ 
+<Name> Calcium Chloride 
+<Class>    Inotropic Agent (electrolyte) 
+<Action>    Replaces elemental calcium, which is essential for regulating 
+excitation threshold of nerves and muscles. Calcium is also essential 
+for blood clotting mechanisms, maintenance of renal function, and 
+bone tissues. Calcium increases myocardial contractile force and 
+ventricular automaticity. 
+Additionally serves as an antidote for magnesium sulfate and calcium 
+channel blocker toxicity. Calcium chloride has three times as much 
+elemental calcium than calcium gluconate.  
+<Pharmacokinetics>    Onset and peak are immediate 
+<Contraindications>    V-Fib, renal/cardiac insufficiency, patients taking digitalis, 
+hypercalcemia 
+<Adverse Effects>    Arrhythmias including bradycardia or cardiac arrest, Syncope, N/V, 
+Hypotension, Necrosis with extravasation. Calcium chloride will 
+precipitate when used in conjunction with sodium bicarbonate, 
+Toxicity with digitalis, and may antagonize the effects of calcium 
+channel blockers. 
+<Indications>    Calcium channel blocker toxicity/overdose, Acute hyperkalemia, Acute 
+hypocalcemia, Acute hypermagnesemia 
+<Dosing>    Per Protocols: C-02, CA-02, CA-03, CA-06, M-15 
+Clinical References: CR-20 
+  
+<Name> Chlorohexadine Gluconate 
+<Class>    skin antiseptic 
+<Action>    Disinfect/clean skin with an antiseptic that contains a minimum of a 
+2% chlorhexidine-based preparation before sharp appliance insertion. 
+<Pharmacokinetics>    Found to possess a high level of antibacterial activity, low mammalian 
+toxicity and a strong affinity for binding to the skin. The antimicrobial 
+action of CHG is attributed to the disruption of the microbial cell 
+membrane and precipitation of cell contents. Provides residual effect 
+up to 2 days 
+<Contraindications>    None for System use. 
+Precaution    Allow the antiseptic to remain on the site and to air dry before catheter 
+insertion, approximately 30 seconds. Chlorohexidine is a skin 
+antiseptic and is not approved for use on environmental surfaces.  
+<Adverse Effects>    Handle with care. In case of eye contact, immediately flush eye with 
+plenty of water, if irritation persists, seek medical attention. 
+<Indications>    Necessary skin preparation prior to the application of a sharp 
+appliance including, but not limited to venous catheters, intraosseous 
+infusion needles, lancets, and the delivery of medications or 
+immunizations through syringes either intramuscular, dermal, or 
+subcutaneous. 
+<Dosing>    Per Clinical Procedures: CP-05, CP-10, CP-17, CP-28, CP-34,  
+CP-37, CP-38, CP-61 
+
+<Name> Dextrose (D10W) 
+<Class>    Carbohydrate. Dextrose (aka. glucose) is one of the basic building 
+blocks of all sugars. Glucose is a monomer and is therefore readily 
+processed in the blood. Through glycolysis glucose is turned into 
+pyruvate giving off a small amount of chemical energy (ATP). 
+Pyruvate is further processed through the Citric Acid Cycle (Kreb’s 
+Cycle) yielding even more energy (GTP, FADH2 and NADH) and 
+CO2. The GTP, FADH2 and NADH are then converted into a large 
+amount of ATP through the use of a specialized cell membrane and 
+the ability of Oxygen to receive extra protons and carbon to form 
+water and CO2.  Insulin turns excess glucose into glycogen when 
+blood sugars are high. Glucose is a large molecule that forms a ring, 
+this structure is incapable of being absorbed into a cell without a 
+mediator (insulin) and therefore increases damage to epithelium as it 
+floats through the blood stream. It also causes an osmotic pressure as 
+concentrations vary across membranes. The pressure is less with D5 
+and D10 therefore they are used in pediatrics. 
+<Action>    Principal form of glucose used by the body 
+<Pharmacokinetics>    Rapid absorption in bloodstream 
+<Contraindications>    Use with caution in patients with suspected increased ICP. 
+<Adverse Effects>    Patients may complain of warmth, pain, or burning at the injection site.  
+Extravasation causes necrosis. 
+<Indications>    Cardiac Arrest or altered mentation with Glucose level < 50 or Newly 
+Born with heart rate < 60 
+<Dosing>    Per Protocols: CA-02, M-03, OB-03, PC-01, PM-02, PCA-02  
+Clinical Reference: CR-21 
+Clinical Standard: CS-20 
+
+<Name> Diltiazem 
+<Class>    Diltiazem hydrochloride is a calcium ion cellular influx inhibitor (slow channel 
+blocker or calcium antagonist). 
+<Action>    Calcium channel blockers are drugs that block the entry of calcium 
+into the muscle cells of the heart and arteries. The entry of calcium is 
+critical for the conduction of the electrical signal that passes from 
+muscle cell to muscle cell of the heart, and signals the cells to 
+contract. It also is necessary in order for the muscle cells to contract 
+and thereby pump blood. In the arteries, the entry of calcium into 
+muscle cells causes contraction of the cells and thereby dilates 
+(widens) the arteries. Thus, by blocking the entry of calcium, calcium 
+channel blockers reduce electrical conduction within the heart, 
+decrease the force of contraction (work) of the muscle cells, and dilate 
+arteries. Dilation of the arteries reduces blood pressure and thereby 
+the effort the heart must exert to pump blood. Combined with 
+decreases in the force of contraction, this leads to a reduced 
+requirement for oxygen by the heart. Dilation of the arteries provides 
+more oxygen-carrying blood to the heart. The combination of reduced 
+demand for oxygen and increased delivery of oxygen prevents angina 
+or heart pain. (Angina occurs when the heart is not getting enough 
+oxygen relative to the amount of work it is doing.) In addition, calcium 
+channel blockers slow electrical conduction through the heart and 
+thereby correct abnormal rapid heartbeats. 
+<Pharmacokinetics>    Diltiazem hydrochloride is extensively metabolized by the liver and 
+excreted by the kidneys and in bile. 
+<Contraindications>    Diltiazem is contraindicated in (1) patients with sick sinus syndrome 
+except in the presence of a functioning ventricular pacemaker, (2) 
+patients with second- or third-degree AV block except in the presence 
+of a functioning ventricular pacemaker, (3) patients with hypotension 
+(less than 90 mm Hg systolic), (4) patients who have demonstrated 
+hypersensitivity to the drug, and (5) patients with acute myocardial 
+infarction and pulmonary congestion. 
+Precaution    Cardiac Conduction: Diltiazem prolongs AV node refractory periods 
+without significantly prolonging sinus node recovery time, except in 
+patients with sick sinus syndrome. Concomitant use of diltiazem with 
+beta-blockers or digitalis may result in additive effects on cardiac 
+conduction 
+<Adverse Effects>    Headache, constipation, rash, nausea, flushing, edema, drowsiness, 
+low blood pressure, and dizziness. 
+<Indications>    Atrial Fibrillation with RVR, Paroxysmal Supraventricular Tachycardia 
+<Dosing>    Per Protocol C-03, C-04 
+
+<Name> Diphenhydramine 
+<Class>    Antihistamine, Ethanolamine, Anticholinergic 
+<Action>    Diphenhydramine blocks the effects of Histamine (H1 histamine) on 
+the H1 receptor site through a competitive competition for the 
+peripheral H1 site. When diphenhydramine is bound the H1 site 
+cannot be stimulated preventing the effects of histamines (swelling, 
+etc…). As an H1 blocker diphenhydramine blocks the effects of H1 on 
+its receptor in the cortex as well this causes a change in the cortex 
+neural potassium channels causing neurons in the cortex to have a 
+higher threshold to depolarize. This results in an increase in sedation 
+as a result of the H1 block.  As an antihistamine, diphenhydramine 
+one of the most effective antihistamines.  
+<Pharmacokinetics>    Onset of 15m IV, peak 1-4h, ½ life 2-10h. 
+<Contraindications>    Known allergy. 
+<Adverse Effects>    Potent anticholinergic agent. Mydriasis, Photophobia, ataxia, 
+tachycardia 
+<Indications>    Hives/Rash or Adult dystonic reaction 
+<Dosing>    Per Protocols: M-02, M-05, PM-01, PM-09 
+ 
+<Name> Dopamine 
+<Class>    Sympathomimetic, Catecholamine 
+<Action>    Naturally occurring hormone and preceptor to Norepinephrine.  This 
+catecholamine has different effects at different doses due to the 
+sensitivity of receptors at different sites being related to the 
+concentration of dopamine present. At low doses (2-5 mcg/kg/min) 
+Dopamine increases the perfusion of the mesenteric arteries and the 
+kidneys. Low doses can be used to try and perfuse an ischemic bowel 
+or a failing kidney. Has a direct action on alpha and beta-adrenergic 
+receptors. As doses are increased (5-10 mcg/kg/min), beta receptors 
+are stimulated increasing force of contraction as well as heart rate and 
+conduction. As dopamine becomes more concentrated (10-20 
+mcg/kg/min) the less sensitive peripheral alpha receptors become 
+activated this causes a increase in vascular constriction  that 
+increases as the drug becomes more concentrated until at 20 
+mcg/kg/min the effects are mainly on the peripheral vasculature. 
+<Pharmacokinetics>    Onset <5m, duration <10m, ½ life 2m. 
+<Contraindications>    Pheochromocytoma (adrenal tumors), tachydysrhythmias, HTN 
+<Adverse Effects>    Tachydysryhthmias, VF, VT, AMI, N/V, HA. 
+<Indications>    Hypotension unresponsive to fluid therapy 
+<Dosing>    Per Protocols: C-02, CA-04, M-11, T-07 
+Clinical References: CR-03 
+
+<Name> Enalaprilat (Vasotec) 
+<Class>    Enalaprilat (a.k.a. – Enalapril) injection is a sterile aqueous solution 
+for intravenous administration. Enalaprilat is an angiotensin converting 
+enzyme (ACE) inhibitor. 
+<Action>    Intravenous enalaprilat, or oral enalapril, after hydrolysis to 
+enalaprilat, inhibits ACE in human subjects and animals. ACE is a 
+peptidyl dipeptidase that catalyzes the conversion of angiotensin I to 
+the vasoconstrictor substance, angiotensin II. Angiotensin II also 
+stimulates aldosterone secretion by the adrenal cortex. Inhibition of 
+ACE results in decreased plasma angiotensin II, which leads to 
+decreased vasopressor activity and to decreased aldosterone 
+secretion. 
+<Pharmacokinetics>    A clinical response is usually seen within 15 minutes. Peak effects 
+after the first dose may not occur for up to four hours after dosing, 
+although most of the effect is usually apparent within the first hour. 
+This drug is known to be substantially excreted by the kidney. 
+<Contraindications>    Enalaprilat injection is contraindicated in patients who are 
+hypersensitive to any component of this product and in patients with a 
+history of angioedema related to previous treatment with an 
+angiotensin converting enzyme inhibitor and in patients with 
+hereditary, idiopathic angioedema, known pregnancy or Hypotension. 
+Precaution    The risk of toxic reactions of this drug may be greater in patients with 
+impaired renal function.  
+<Adverse Effects>    Hypertensive patients at risk of excessive hypotension include those 
+with the following concurrent conditions or characteristics: heart 
+failure, hyponatremia, high dose diuretic therapy, recent intensive 
+diuresis or increase in diuretic dose, renal dialysis, or severe volume 
+and/or salt depletion of any etiology. 
+<Indications>    Enalaprilat injection is indicated for the treatment of Hypertension in 
+CHF. 
+<Dosing>    Per Protocol: R-03 
+ 
+<Name> Epinephrine 
+<Class>    Sympathomimetic 
+<Action>    Naturally occurring catecholamine obtained form animal adrenal 
+glands.  Acts on alpha and beta adrenergic receptors.  The most 
+potent alpha agonist.  Beta1: Strengthens myocardial contraction, 
+increase sys BP (may decrease dia BP), increases HR and cardiac 
+output.  Beta2: Dilates bronchial smooth muscle and inhibits mucous 
+secretion.  Alpha: Constricts bronchiole arterioles, inhibits histamine 
+release, constricts arterioles in the skin, mucous membranes, and 
+kidneys but dilates those in the skeletal muscle. Action is through a 
+natural hormonal mechanism.  
+<Pharmacokinetics>    Onset<2m IV, 3-10m SQ.  Peak 5m IV, 20m SQ.  Duration 5-10m IV, 
+20-30m SQ. 
+<Contraindications>    Tachydysrhythmias, coronary artery disease. 
+<Adverse Effects>    HA, N/V, tachydysrhythmias, AMI, diaphoresis, anxiety, palpitations. 
+<Indications>    Allergic Reaction/Anaphylaxis, Reactive Airway Disease, PEDI 
+Bradycardia, Cardiac Resuscitation 
+<Dosing>    Per Protocols: CA-02, CA-03, M-02, PC-01, PM-01, PM-09, PR-03, 
+PCA-02, PCA-03, R-04, SO-01 
+Clinical Procedure: CP-24 
+Clinical References: CR-4, CR-23  
+Clinical Standard CS-20
+ 
+<Name> Fentanyl Citrate 
+<Class>    Narcotic analgesic 
+<Action>    The principal actions of therapeutic value are analgesia and sedation.  
+<Pharmacokinetics>    Opioid (narcotic, CNS-acting) analgesics are derivatives of opium. 
+These drugs modify the perception of pain and provide a sense of 
+euphoria by binding to specific opiate receptors throughout the central 
+nervous system. Many of the characteristics of particular opioids 
+relate to the receptor to which they bind. Fentanyl is classified as a full 
+agonists and binds to mu receptor sites, blocks pain impulses, and 
+produces maximum pain control. Onset immediate, peak 3-5m, 
+duration 30-60m. 
+<Contraindications>    Fentanyl is not indicated for MAOI use, asthma, myasthenia gravis, 
+evidence of hypoperfusion. 
+<Adverse Effects>    Fentanyl may cause muscle rigidity, particularly involving the muscles 
+of respiration. In addition, skeletal muscle movements of various 
+groups in the extremities, neck and external eye have been reported 
+during induction of anesthesia with fentanyl; these reported 
+movements have, on rare occasions, been strong enough to pose 
+patient management problems. This effect is related to the dose and 
+speed of injection and its incidence can be reduced by slower 
+administration and lower doses titrated to effect. As with other narcotic 
+analgesics, the most common serious adverse reactions reported to 
+occur with fentanyl are respiratory depression, apnea, rigidity, and 
+bradycardia; if these remain untreated, respiratory arrest, circulatory 
+depression or cardiac arrest could occur. Other adverse reactions that 
+have been reported are hypertension, hypotension, dizziness, blurred 
+vision, nausea, emesis, laryngospasm, and diaphoresis.  
+<Indications>    Acute pain management 
+<Dosing>    Per Protocols: M – 16, C – 01, T – 02, SO - 11, PM – 06, PT - 01 
+Clinical Reference: CR – 35 (Adult) & CR – 36 (Pedi) 
+Clinical Standard: CS - 37 
+
+<Name> Hydroxocobalamin (Vitamin B12) 
+<Class>    Vitamin 
+<Action>    Hydroxocobalamin binds with Cyanide to form nontoxic 
+cyanocobalamin, which is then excreted in the urine. 
+<Pharmacokinetics>    The predominant mean half-life of free and total cobalamins-(III) was 
+found to be approximately 26 to 31 hours at both the 5 g and 10 g 
+dose level. The mean total amount of cobalamins-(III) excreted in 
+urine during the collection period of 72 hours was about 60% of a 5 g 
+dose and about 50% of a 10 g dose of hydroxocobalamin. Overall, the 
+total urinary excretion was calculated to be at least 60 to 70% of the 
+administered dose. The majority of the urinary excretion occurred 
+during the first 24 hours, but red-colored urine was observed for up to 
+35 days following the intravenous infusion. 
+<Contraindications>    Known anaphylactic reactions to hydroxocobalamin or 
+cyanocobalamin  
+<Adverse Effects>    Anaphylaxis, chest tightness, edema, urticaria, pruritus, dyspnea, 
+rash, and angioneurotic edema. Substantial increases in blood 
+pressure may occur following CYANOKIT® therapy. 
+<Indications>    For the treatment of known or suspected cyanide poisoning 
+<Dosing>    Per Protocols: M – 21, PM - 11  
+Clinical Procedure CP - 37 
+ 
+<Name> Glucagon 
+<Class>    Hormone 
+<Action>    Causes a breakdown of stored blood glycogen to glucose and inhibits 
+glycogen synthesis. Glucagons acts by binding to glucagon receptor 
+sites and stimulating a secondary messenger through the increase of 
+adenylate cyclase. Beta stimulation causes an increase in the 
+adenylate cyclase. Therefore glucagon has been known to have beta 
+like effects just as Beta drugs such as Epinephrine are known to 
+stimulate Glycogenolysis in the liver. 
+<Pharmacokinetics>    Onset 5-20m, peak 30m, duration 1-1.5h.  ½ life30m. 
+<Contraindications>    Not efficacious in poorly nourished individuals as they have no 
+glycogen stores. 
+<Adverse Effects>    N/V, HA 
+<Indications>    Hypoglycemia < 50 if unable to obtain IV access for D10W   
+<Dosing>    Per Protocols: C-02, CA-02, M-03, M-15, PC-01, PM-02, PM-09, 
+PCA-02 
+
+<Name> Haloperidol 
+<Class>    Antipsychotic 
+<Action>    The precise mechanism of action has not been clearly established. 
+<Pharmacokinetics>    This drug is known to be substantially excreted by the kidney. 
+<Contraindications>    Severe toxic central nervous system depression or comatose states 
+from any cause and in individuals who are hypersensitive to this drug 
+or have Parkinson's disease.  
+Precaution    Elderly Patients with Dementia-Related Psychosis. 
+<Adverse Effects>    Tachycardia, hypotension, and hypertension have been reported. QT 
+prolongation and/or ventricular arrhythmias have also been reported, 
+in addition to ECG pattern changes compatible with the polymorphous 
+configuration of torsade de pointes, and may occur more frequently 
+with high doses and in predisposed patients. Symptoms of dystonia, 
+prolonged abnormal contractions of muscle groups, may occur in 
+susceptible individuals during the first few days of treatment. Dystonic 
+symptoms include: spasm of the neck muscles, sometimes 
+progressing to tightness of the throat, swallowing difficulty, difficulty 
+breathing, and/or protrusion of the tongue. While these symptoms can 
+occur at low doses, they occur more frequently and with greater 
+severity with high potency and at higher doses of first generation 
+antipsychotic drugs. An elevated risk of acute dystonia is observed in 
+males and younger age groups. The risk of toxic reactions of this drug 
+may be greater in patients with impaired renal function. 
+<Indications>    Haloperidol is used to treat certain mental/mood disorders (e.g., 
+schizophrenia, schizoaffective disorders). It can also help prevent 
+suicide in people who are likely to harm themselves. It also reduces 
+aggression and the desire to hurt others. It can decrease negative 
+thoughts and hallucinations. Haloperidol can also be used to treat 
+uncontrolled movements and outbursts of words/sounds related to 
+Tourettes disorder. Haloperidol is also used for severe behavior 
+problems in hyperactive children when other treatments or 
+medications have not worked. Haloperidol is a psychiatric medication 
+(antipsychotic-type) that works by helping to restore the balance of 
+certain natural substances in the brain (neurotransmitters). 
+<Dosing>    Per Protocol: M-05 
+ 
+<Name> Hurricaine/Cetacaine Spray 
+<Class>    Topical anesthetic; Contains 14-20% Benzocaine 
+<Action>    Blocks conduction of impulses at the sensory nerve endings. 
+<Pharmacokinetics>    Benzocaine is an ester, a compound made from the organic acid 
+PABA (para-aminobenzoic acid) and ethanol. 
+Pain is caused by the stimulation of nerve endings. When the nerve 
+endings are stimulated, sodium enters the nerve ending, which 
+causes an electrical signal to build up in the nerve. Once the electrical 
+signal becomes big enough, it is able to travel to the brain, which then 
+interprets this as pain. 
+Esters of PABA work as a chemical barrier, stopping the sodium from 
+being able to enter the nerve ending. 
+<Contraindications>    Known sensitivity to Benzocaine anesthetics. 
+<Adverse Effects>    Benzocaine is a well-known cause of methemoglobinemia. Because it 
+may be used in topical creams with a concentration as much as 20%, 
+it is not difficult to administer a dose sufficient to cause this problem. 
+<Indications>    To facilitate nasal intubation attempts in patients with a gag reflex. 
+<Dosing>    Per Clinical Procedure: CP-44  
+
+<Name> Ibuprofen 
+<Class>    Non-Steroidal Anti-Inflammatory Drug (NSAID) 
+<Action>    Ibuprofen possesses analgesic and antipyretic activities. Its mode of 
+action, like that of other NSAIDs, is not completely understood, but 
+may be related to prostaglandin synthetase inhibition, by blocking the 
+enzyme in your body that makes prostaglandins. Decreasing 
+prostaglandins helps to reduce pain, swelling, and fever.  
+<Pharmacokinetics>    Ibuprofen is rapidly absorbed. Peak serum ibuprofen levels are 
+generally attained one to two hours after administration. Ibuprofen is 
+rapidly metabolized and eliminated in the urine. The excretion of 
+ibuprofen is virtually complete 24 hours after the last dose. The serum 
+half-life is 1.8 to 2.0 hours. 
+<Contraindications>    In patients with known hypersensitivity and should not be given to 
+patients who have experienced asthma, urticaria, or allergic-type 
+reactions after taking aspirin or other NSAIDs. Severe, rarely fatal, 
+anaphylactic-like reactions to NSAIDs have been reported in such 
+patients. Contraindicated for the treatment of peri-operative pain in the 
+setting of coronary artery bypass graft (CABG) surgery. 
+Precaution    Pregnancy, aspirin-sensitive asthma, coagulation disorders or patients 
+receiving anticoagulants should be carefully monitored. 
+<Adverse Effects>    Heart attack, stroke, high blood pressure, heart failure from body 
+swelling (fluid retention), kidney problems including kidney failure, 
+bleeding and ulcers in the stomach and intestine, low red blood cells 
+(anemia), life-threatening skin reactions, life-threatening allergic 
+reactions, liver problems including liver failure, asthma attacks in 
+people who have asthma. 
+<Indications>    Ibuprofen is a non-steroidal anti-inflammatory drug (NSAID), which 
+relieves pain and swelling (inflammation). It is used to treat 
+headaches, muscle aches, backaches, dental pain, menstrual 
+cramps, arthritis, or athletic injuries. This medication is also used to 
+reduce fever and to relieve minor aches and pains due to the common 
+cold or flu. 
+<Dosing>    Per Protocols: M-09, M-16 
+
+<Name> Ipratropium Bromide (Atrovent) 
+<Class>    Parasympatholytic Bronchodilator 
+<Action>    Anticholinergic agent, chemically closely related to atropine and has 
+the same actions as Atropine.  Acts directly on the smooth muscle 
+and decreases secretions.  Reduces the vagally mediated reflex 
+bronchospasm caused by inhaled irritants.  
+<Pharmacokinetics>    10% of inhaled dose reaches lower airway, 0.5% reaches systemic 
+distribution.  Peak 1.5-2h, duration 4-6h, ½ life 1.5-2h. 
+<Contraindications>    Narrow-angle Glaucoma, Hypersensitivity to Atropine or allergy to soy 
+products 
+<Adverse Effects>    Dry mouth, HA, cough, dries secretions 
+<Indications>    Obstructive Airway Disease, Reactive Airway Disease 
+<Dosing>    Per Protocols: PR-03, R-04, T-04 
+
+<Name> Lidocaine 
+<Class>    Antidysrhythmic, Sodium channel blocker 
+<Action>    Raises the threshold for ventricular contractions and lowers the 
+threshold for defibrillation and cardioversion. Suppresses automaticity 
+in the His-purkinje system and by elevating the electrical stimulation 
+threshold of ventricular contractions. This is accomplished by blocking 
+the rapid influx of Na+ during the initial phase of depolarization. 
+Typically shortens the action potential and the refractory period 
+secondary to a blockade of sodium channels that usually (in 
+procainamide’s blockade) continue to function normally through phase 
+2 of the action potential. Lidocaine functions well in hyperkalemic and 
+acidotic states therefore it works well on ischemic tissues. 
+<Pharmacokinetics>    Onset 3m, peak 5-7m, duration 10-20m, ½ life 1.5-2h. 
+<Contraindications>    CHF, shock, use caution in the elderly. 
+<Adverse Effects>    Seizures, slurred speech, AMS 
+<Indications>    Pain Management for IO Infusion, Cardiac Arrest and Post 
+Resuscitation Care  
+<Dosing>    Per Protocols: C-05, CA-03, CA-06, M-08, PC-03, PCA-03, U-02 
+Clinical Procedures: CP-24, CP-38 
+Clinical References: CR-05, CR-25 
+
+<Name> Magnesium Sulfate 50% 
+<Class>    Electrolyte 
+<Action>    Molecularly Mg+ is very similar to Ca as it has the same electron 
+valence. Because of this it chemically very similarly to Ca+ and in 
+some reactions in the body. Ca+ is significantly larger than Mg+ 
+therefore Mg+ does not adequately replace it in cases that are not 
+purely chemical. Because of these qualities Mg+ can prevent Ca+ 
+from binding to Troponin and prevent muscles from contracting as 
+described in the action for “Calcium Gluconate”. Because of its 
+extremely positive charge it also blocks neuromuscular transmission 
+by changing the electric potentials threshold. 
+<Pharmacokinetics>    Onset immediate, duration 30m 
+<Contraindications>    Renal disease, AV block, previous myocardial damage. 
+<Adverse Effects>    Hypotension, asystole, cardiac arrest, respiratory/CNS depression, 
+flushing, sweating. 
+<Indications>    Obstetrical Emergencies/ Seizures (adult only), Reactive Airway 
+Disease, Toxic Exposure (Hydrofluoric Acid), Pulseless Arrest, 
+Tachycardia w/ pulse (adults only). 
+<Dosing>    Per Protocols: C-05, CA-03, CA-06, OB-02, PR-03, PCA-03, PC-03, 
+R-04 
+Clinical Reference: CR-26 
+When the Protocols call for an infusion over time: Place the M/S 
+dose into a 50ml/NS and infuse over the time indicated per 
+protocol.  
+
+<Name> Terbutaline Sulfate 
+<Class>    beta-adrenergic agonist bronchodilator available as a sterile, 
+nonpyrogenic, aqueous solution in vials, for subcutaneous 
+administration. 
+<Action>    Terbutaline is a beta-adrenergic receptor agonist. In vitro and in vivo 
+pharmacologic studies have demonstrated that terbutaline exerts a 
+preferential effect on beta2-adrenergic receptors. While it is 
+recognized that beta2-adrenergic receptors are the predominant 
+receptors in bronchial smooth muscle, data indicate that there is a 
+population of beta2-receptors in the human heart, existing in a 
+concentration between 10% to 50%. The precise function of these 
+receptors has not been established. Controlled clinical studies have 
+shown that terbutaline relieves bronchospasm in acute and chronic 
+obstructive pulmonary disease by significantly increasing pulmonary 
+flow rates (e.g., an increase of 15% or more in FEV1). After 
+subcutaneous administration of 0.25 mg of terbutaline, a measurable 
+change in expiratory flow rate usually occurs within 5 minutes, and a 
+clinically significant increase in FEV1 occurs within 15 minutes. The 
+maximum effect usually occurs within 30 to 60 minutes, and clinically 
+significant bronchodilator activity may continue for 1.5 to 4 hours. The 
+duration of clinically significant improvement is comparable to that 
+observed with equimilligram doses of epinephrine. 
+<Pharmacokinetics> N/A
+<Contraindications>    Terbutaline sulfate injection is contraindicated in patients known to be 
+hypersensitive to sympathomimetic amines or any component of this 
+drug product. 
+Precaution    Terbutaline, as with all sympathomimetic amines, should be used with 
+caution in patients with cardiovascular disorders, including ischemic 
+heart disease, hypertension, and cardiac arrhythmias; in patients with 
+hyperthyroidism or diabetes mellitus; and in patients who are 
+unusually responsive to sympathomimetic amines or who have 
+convulsive disorders. 
+<Adverse Effects>    Significant changes in systolic and diastolic blood pressure have been 
+seen and could be expected to occur in some patients after use of any 
+beta-adrenergic bronchodilator.Immediate hypersensitivity reactions 
+and exacerbations of bronchospasm have been reported after 
+terbutaline administration. 
+<Indications>    Respiratory distress in patients > 36 Kg during remote rescue events 
+with significant extraction time and transport delay  
+<Dosing>    Per Protocol: SO-01 
+ 
+<Name> Vecuronium Bromide 
+<Class>    Non-depolarizing neuromuscular blocker 
+<Action>    The relaxation of skeletal muscles which facilitates endotracheal 
+intubation and mechanical ventilation. 
+<Pharmacokinetics>    Binds to receptors and prevents acetylcholine (Ach) from stimulating 
+receptors. It competes with Ach for nicotinic receptor binding sites. 
+The blockade is competitive, hence muscle paralysis occurs 
+gradually. 
+<Contraindications>    None 
+<Adverse Effects>    Prolonged paralysis 
+<Indications>    To facilitate invasive cooling procedure. 
+<Dosing>    Per Protocol: CA-04 
+
+<Name> Xylocaine Gel 
+<Class>    anesthetic 
+<Action>    stabilizes the neuronal membrane by inhibiting the ionic fluxes required for 
+the initiation and conduction of impulses thereby, effecting local anesthetic 
+action. Local anesthetics of the amide type are thought to act within the 
+sodium channels of the nerve membrane.  
+ <Pharmacokinetics> ........ After application local anesthesia is achieved within 5 minutes. 
+Duration of anesthesia is approximately 20 - 30 minutes.  
+<Contraindications>    Lidocaine HCl is contraindicated in patients with a known history of 
+hypersensitivity to local anesthetics of the amide type. 
+<Adverse Effects> N/A
+<Indications>    Nasal preparation prior to Nasal Tracheal Intubation attempt 
+<Dosing>    Per Clinical Procedure: CP-32, CP44 
+
